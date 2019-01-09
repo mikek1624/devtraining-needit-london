@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Users Data" max_length="40" name="x_58872_needit_users_data" type="collection">
+        <element attributes="import_attribute_name=Accounts,edge_encryption_enabled=true" label="Accounts" max_length="40" name="u_accounts" type="string"/>
+        <element attributes="import_attribute_name=Default Time Time Zone,edge_encryption_enabled=true" label="Default Time Time Zone" max_length="48" name="u_default_time_time_zone" type="string"/>
+        <element attributes="import_attribute_name=Email Address,edge_encryption_enabled=true" label="Email Address" max_length="45" name="u_email_address" type="string"/>
+        <element attributes="import_attribute_name=First Name*,edge_encryption_enabled=true" label="First Name*" max_length="40" name="u_first_name_" type="string"/>
+        <element attributes="import_attribute_name=Last Name*+,edge_encryption_enabled=true" label="Last Name*+" max_length="40" name="u_last_name__" type="string"/>
+        <element attributes="import_attribute_name=Login ID,edge_encryption_enabled=true" label="Login ID" max_length="45" name="u_login_id" type="string"/>
+    </element>
+</database>
